@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\wgras\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\wgras\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+E:\CertificateCourses\Projects\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\Play.Catalog.Contracts.deps.json
+E:\CertificateCourses\Projects\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\Play.Catalog.Contracts.dll
+E:\CertificateCourses\Projects\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\ref\Play.Catalog.Contracts.dll
+E:\CertificateCourses\Projects\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\Play.Catalog.Contracts.pdb
+E:\CertificateCourses\Projects\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.csproj.AssemblyReference.cache
+E:\CertificateCourses\Projects\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\CertificateCourses\Projects\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.AssemblyInfoInputs.cache
+E:\CertificateCourses\Projects\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.AssemblyInfo.cs
+E:\CertificateCourses\Projects\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+E:\CertificateCourses\Projects\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.dll
+E:\CertificateCourses\Projects\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\ref\Play.Catalog.Contracts.dll
+E:\CertificateCourses\Projects\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.pdb
